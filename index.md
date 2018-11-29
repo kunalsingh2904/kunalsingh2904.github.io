@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Welcome to **Kunal**'s homepage
 
-You can use the [editor on GitHub](https://github.com/kunalsingh2904/kunalsingh2904.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction:
+**H**ii Friends
+I am a 2nd year computer science student at **IIT** Dharwad.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## MY skills:
+* Web development
+  * HTML
+  * CSS
+  * Java Script
+  * PHP
+  * Sql
+* Python3
+* C++
+* Linux/Unix
+* Data analysis
+* Latex
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My repository on Github:
+Currently I am working on a chess game, which will have following features-
+1. computer vs player
+1. player vs player
 
-```markdown
-Syntax highlighted code block
+### My interest:
+1. I love __coding__ and solving new problems
+1. Reading **newspaper**
+1. solving **puzzles** and playing **chess**
+1. Travelling and meeting new people
 
-# Header 1
-## Header 2
-### Header 3
+### You can follow me on:
+* Github (https://github.com/kunalsingh2904)
+* LinkedIn (https://www.linkedin.com/in/kunal-kumar-66921116b)
 
-- Bulleted
-- List
+### Contact details:
+You can contact me via email (170010012@iitdh.ac.in)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.
 
-[Link](url) and ![Image](src)
-```
+**Thankyou!**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kunalsingh2904/kunalsingh2904.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
+
+
+
+
+
+
