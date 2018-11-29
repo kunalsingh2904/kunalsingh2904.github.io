@@ -30,8 +30,8 @@ Currently I am working on a chess game, which will have following features-
 1. Travelling and meeting new people
 
 ### You can follow me on:
-* Github (http://github.com/kunalsingh2904)
-* LinkedIn (http://www.linkedin.com/in/kunal-kumar-66921116b)
+* Github ( http://github.com/kunalsingh2904 )
+* LinkedIn ( http://www.linkedin.com/in/kunal-kumar-66921116b )
 
 ### Contact details:
 You can contact me via email (170010012@iitdh.ac.in)
