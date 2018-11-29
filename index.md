@@ -31,10 +31,10 @@ Currently I am working on a chess game, which will have following features-
 
 ### You can follow me on:
 * [Github](http://github.com/kunalsingh2904)
-* [LinkedIn]( http://www.linkedin.com/in/kunal-kumar-66921116b )
+* [LinkedIn](http://www.linkedin.com/in/kunal-kumar-66921116b)
 
 ### Contact details:
-You can contact me via email (170010012@iitdh.ac.in)
+You can contact me via [email](170010012@iitdh.ac.in)
 
 
 Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.
