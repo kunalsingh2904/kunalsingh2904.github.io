@@ -6,22 +6,27 @@ I am a 2nd year computer science student at **IIT** Dharwad.
 
 
 ## MY skills:
+* Data science
+* Machine learning 
+* Deep learning
+* SQL
+* Python3
+* C++
+* Linux/Unix
+* Data analysis
+* Django
 * Web development
   * HTML
   * CSS
   * Java Script
   * PHP
   * Sql
-* Python3
-* C++
-* Linux/Unix
-* Data analysis
 * Latex
 
 ## My repository on Github:
-Currently I am working on a chess game, which will have following features-
-1. computer vs player
-1. player vs player
+Currently I am working on a text editor, which will have following features-
+1. you can write something
+1. you can paint or Draw anything.
 
 ### My interest:
 1. I love __coding__ and solving new problems
